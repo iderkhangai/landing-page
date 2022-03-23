@@ -1,9 +1,3 @@
-(window.webpackJsonp = window.webpackJsonp || []).push([
-    [5], { 357: function(n, o, p) { n.exports = p(16) } },
-    [
-        [357, 0]
-    ]
-]);
 document.documentElement.classList.remove('no-js');
 document.documentElement.classList.add('js');
 
